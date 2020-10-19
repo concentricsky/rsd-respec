@@ -11,6 +11,7 @@
     "alignments": {"@id": "ctdlasn:majorAlignment", "@type": "@id"},
     "author": {"@id": "ctdlasn:author"},
     "category": {"@id": "ctdlasn:competencyCategory"},
+    "ctid": {"@id": "ctdl:ctid"},
     "certifications": {"@id": "ctdlasn:alignFrom", "@type": "@id"},
     "containsSkill": {"@id": "ctdlasn:hasTopChild"},
     "employers": {"@id": "ctdl:employmentOutcome"},
